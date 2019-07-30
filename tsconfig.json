@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "rootDir": "src",
+      "target": "ES2017",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "noImplicitThis": true,
+      "noUnusedLocals": true,
+      "stripInternal": true,
+      "pretty": true,
+      "declaration": true,
+      "outDir": "dist",
+      "lib": ["es2017", "dom"]
+    }
+  }
+  
